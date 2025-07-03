@@ -17,7 +17,7 @@
     "ci:changelog": "changelogithub",
     "ci:clear": "clear-package-json package.json --output package.json",
     "release": "pnpm release:check && pnpm release:version && pnpm release:prepare && pnpm release:git",
-    "release:check": "pnpm test && pnpm run build",
+    "release:check": "pnpm test",
     "release:git": "pnpm release:git:add && pnpm release:git:commit && pnpm release:git:tag && pnpm release:git:push",
     "release:git:add": "git add .",
     "release:git:commit": "git commit -m \"build: publish v$(node -p \"require('./package.json').version\")\"",
