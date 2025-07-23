@@ -12,7 +12,10 @@
   "license": "MIT",
   "author": "Azat S. <to@azat.io>",
   "type": "module",
-  "main": "tsconfig.json",
+  "main": "./configuration/tsconfig.json",
+  "files": [
+    "./configuration"
+  ],
   "scripts": {
     "ci:changelog": "changelogithub",
     "ci:clear": "clear-package-json package.json --output package.json",
@@ -34,15 +37,15 @@
     "test:types": "tsc --noEmit --pretty"
   },
   "devDependencies": {
-    "@azat-io/eslint-config": "^2.36.0",
+    "@azat-io/eslint-config": "^2.40.0",
     "@commitlint/cli": "^19.8.1",
     "@commitlint/config-conventional": "^19.8.1",
-    "@types/node": "^24.0.7",
-    "changelogen": "^0.6.1",
+    "@types/node": "^24.1.0",
+    "changelogen": "^0.6.2",
     "changelogithub": "^13.16.0",
     "clean-publish": "^5.2.2",
-    "eslint": "^9.30.0",
-    "jiti": "^2.4.2",
+    "eslint": "^9.31.0",
+    "jiti": "^2.5.0",
     "prettier": "^3.6.2",
     "simple-git-hooks": "^2.13.0",
     "typescript": "^5.8.3"
