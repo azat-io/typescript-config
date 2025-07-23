@@ -1,0 +1,12 @@
+.github/
+assets/
+.commitlintrc
+.editconfig
+.gitignore
+.prettierrc
+.simple-git-hooks.json
+changelog.config.json
+changelog.md
+eslint.config.ts
+pnpm-lock.yaml
+pnpm-workspace.yaml
