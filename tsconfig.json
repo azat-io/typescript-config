@@ -25,7 +25,7 @@
     "isolatedModules": true,
 
     /* Specify library files to be included in compilation */
-    "lib": ["es2022", "dom"],
+    "lib": ["esnext", "dom", "webworker"],
 
     /* Specify module system for generated code */
     "module": "esnext",
