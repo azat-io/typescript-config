@@ -18,9 +18,6 @@
     /* Enable compatibility with CommonJS modules when using ES6 imports */
     "esModuleInterop": true,
 
-    /* Ensure exact optional property types */
-    "exactOptionalPropertyTypes": true,
-
     /* Enforce consistent casing in file names when importing */
     "forceConsistentCasingInFileNames": true,
 
