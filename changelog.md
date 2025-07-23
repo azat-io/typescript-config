@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.1.1
+
+[compare changes](https://github.com/azat-io/typescript-config/compare/v1.1.0...v1.1.1)
+
+### 🐞 Bug Fixes
+
+- Fix loading typescript config ([1049735](https://github.com/azat-io/typescript-config/commit/1049735))
+
+### ❤️ Contributors
+
+- Azat S. ([@azat-io](https://github.com/azat-io))
+
 ## v1.1.0
 
 [compare changes](https://github.com/azat-io/typescript-config/compare/v1.0.0...v1.1.0)
