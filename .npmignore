@@ -1,7 +1,7 @@
 .github/
 assets/
 .commitlintrc
-.editconfig
+.editorconfig
 .gitignore
 .prettierrc
 .simple-git-hooks.json
