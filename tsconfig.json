@@ -80,5 +80,7 @@
   },
 
   /* Specify files or patterns to include in the compilation. */
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts"],
+
+  "$schema": "https://www.schemastore.org/tsconfig"
 }
