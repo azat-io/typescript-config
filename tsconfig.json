@@ -66,6 +66,9 @@
     /* Enable strict null and undefined checking. */
     "strictNullChecks": true,
 
+    /* Use unknown type for catch clause variables. */
+    "useUnknownInCatchVariables": true,
+
     /* Target ECMAScript version for generated code. */
     "target": "esnext",
 
