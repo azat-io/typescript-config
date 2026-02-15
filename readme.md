@@ -48,6 +48,7 @@ pnpm add --save-dev typescript @azat-io/typescript-config
 
 ## See also
 
+- [@azat-io/ai-config](https://github.com/azat-io/ai-config)
 - [@azat-io/eslint-config](https://github.com/azat-io/eslint-config)
 - [@azat-io/prettier-config](https://github.com/azat-io/prettier-config)
 - [@azat-io/stylelint-config](https://github.com/azat-io/stylelint-config)
