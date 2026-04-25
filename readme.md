@@ -4,7 +4,6 @@
   src="https://raw.githubusercontent.com/azat-io/typescript-config/main/assets/logo.svg"
   alt="TypeScript Config Logo"
   align="right"
-  width="160"
   height="160"
 />
 
