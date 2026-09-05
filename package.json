@@ -8,6 +8,7 @@
     "config",
     "code-styles"
   ],
+  "homepage": "https://github.com/azat-io/typescript-config",
   "repository": "azat-io/typescript-config",
   "license": "MIT",
   "author": "Azat S. <to@azat.io>",
@@ -34,21 +35,21 @@
     "test:types": "tsc --noEmit --pretty"
   },
   "devDependencies": {
-    "@azat-io/eslint-config": "^2.51.0",
-    "@azat-io/prettier-config": "^1.0.0",
-    "@commitlint/cli": "^20.1.0",
-    "@commitlint/config-conventional": "^20.0.0",
-    "@commitlint/types": "^20.0.0",
-    "@types/node": "^24.7.0",
+    "@azat-io/eslint-config": "^2.94.0",
+    "@azat-io/prettier-config": "^1.3.0",
+    "@commitlint/cli": "^21.2.2",
+    "@commitlint/config-conventional": "^21.2.2",
+    "@commitlint/types": "^21.2.0",
+    "@types/node": "^26.4.1",
     "changelogen": "^0.6.2",
-    "changelogithub": "^13.16.0",
-    "clean-publish": "^5.2.2",
+    "changelogithub": "^15.0.5",
+    "clean-publish": "^7.1.0",
     "cross-env": "^10.1.0",
-    "eslint": "^9.37.0",
-    "jiti": "^2.6.1",
-    "prettier": "^3.6.2",
-    "simple-git-hooks": "^2.13.1",
-    "typescript": "^5.9.3"
+    "eslint": "^10.10.0",
+    "jiti": "^2.7.0",
+    "prettier": "^3.9.6",
+    "simple-git-hooks": "^2.14.0",
+    "typescript": "^6.0.3"
   },
   "peerDependencies": {
     "typescript": "^5.8.0"
