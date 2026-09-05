@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.2.0
+
+[compare changes](https://github.com/azat-io/typescript-config/compare/v1.1.1...v1.2.0)
+
+### 🚀 Features
+
+- Use unknown type for catch clause variables
+  ([aad4014](https://github.com/azat-io/typescript-config/commit/aad4014))
+- Allow importing ts extensions
+  ([19a9a81](https://github.com/azat-io/typescript-config/commit/19a9a81))
+
+### ❤️ Contributors
+
+- Azat S. ([@azat-io](https://github.com/azat-io))
+
 ## v1.1.1
 
 [compare changes](https://github.com/azat-io/typescript-config/compare/v1.1.0...v1.1.1)
