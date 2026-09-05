@@ -3,6 +3,9 @@
     /* Allow importing JavaScript files in TypeScript project. */
     "allowJs": true,
 
+    /* Allow imports with .ts extensions (requires noEmit). */
+    "allowImportingTsExtensions": true,
+
     /* Disallow unreachable code (code after return, throw, etc.). */
     "allowUnreachableCode": false,
 
