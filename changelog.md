@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.2.1
+
+[compare changes](https://github.com/azat-io/typescript-config/compare/v1.2.0...v1.2.1)
+
+### 🐞 Bug Fixes
+
+- Allow emitting when importing ts extensions
+  ([d25874c](https://github.com/azat-io/typescript-config/commit/d25874c))
+
+### ❤️ Contributors
+
+- Azat S. ([@azat-io](https://github.com/azat-io))
+
 ## v1.2.0
 
 [compare changes](https://github.com/azat-io/typescript-config/compare/v1.1.1...v1.2.0)
